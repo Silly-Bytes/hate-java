@@ -8,10 +8,10 @@ Everything is an object...
 ... No, it's not!
 
 
-Not everything is a goddammit object. Have you ever read Java code? It's full of
-actions dressed like objects: Mutator, Traverser, Factory, Maker, Creator,
-Generator, Mediator, Eliminator. So you don't *mutate*, *traverse* or *create*
-anything, instead you **force** an **object** that can do that.
+Not everything is a object. Have you ever read Java code? It's full of actions
+dressed like objects: Mutator, Traverser, Factory, Maker, Creator, Generator,
+Mediator, Eliminator. So you don't *mutate*, *traverse* or *create* anything,
+instead you **force** an **object** that can do that.
 
 Ok some of that stuff can be useful for *well used* design patterns and a good
 design, but most of the time is not!
@@ -34,9 +34,9 @@ Ok, you hit a problem, *javac* is throwing a completely incomprehensible error
 and of course you go to Google hoping you get some answers, and you do:
 
 - Click that button
-- A pop widow appears
-- Fill up those textfilds
-- Mark that ckeckbox
+- A pop up widow appears
+- Fill up those text fields
+- Mark that check box
 - Click the yellow icon
 - Click "ok"
 - Then restart your IDE
@@ -49,7 +49,7 @@ a graphical user interface of an IDE, What if I'm not using that specific IDE?
 What if I'm not using an IDE at all!!?? Are you people stupid? I'm probably not
 even in a Xorg server session and writing the code comfortably in my preferred
 text editor in a nice tmux or screen session, how I'm I supposed to "click" here
-and there? I have no fucking icons.
+and there? I have no icons!
 
 How is that an error produced because Java can't find a library of something
 similar requires a sequence of GUI actions using a mouse? And worse, how is
@@ -77,7 +77,8 @@ everything where the language fails.
 So the language is not aimed for humans, it requires an extra layer, an
 interface (the IDE) for the user to actually use.
 
-(*Why I hate IDE's* post coming soon).
+More on that in this post: [Why I hate
+IDEs](http://silly-bytes.blogspot.com/2016/03/why-do-i-hate-ides.html)
 
 
 IDE dependent projects
@@ -128,3 +129,7 @@ Conclusion
 
 - If you can't easily write software in a language without an IDE, then the
 language sucks.
+
+- Because of the Java dependency on IDEs as (bad programming language
+  enablers)[https://dzone.com/articles/ide-bad-programming-language], lots of
+  the problems with Java are just the intersection with IDE's problems.
