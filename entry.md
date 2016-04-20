@@ -131,5 +131,5 @@ Conclusion
 language sucks.
 
 - Because of the Java dependency on IDEs as (bad programming language
-  enablers)[https://dzone.com/articles/ide-bad-programming-language], lots of
-  the problems with Java are just the intersection with IDE's problems.
+  enablers)[https://dzone.com/articles/ide-bad-programming-language], **lots of
+  the problems with Java are just the intersection with IDE's problems.**
