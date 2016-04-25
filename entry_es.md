@@ -1,5 +1,5 @@
-Why do I hate Java
-==================
+Por qué odio Java
+=================
 
 
 Todo es un objeto...
@@ -54,7 +54,7 @@ Xorg y estoy escribiendo mi código desde la comodidad de mi editor de texto
 preferido en una agradable sesión de Tmux o Screen, cómo estoy supuesto a hacer
 "click" aquí o allá? No tengo iconos!
 
-Cómo es posible que un error producido por que Java no puede localizar una
+Cómo es posible que un error producido porque Java no puede localizar una
 librería o algo similar requiere una secuencia de acciones en una GUI usando un
 mouse? Y peor aun, cómo es posible que es la UNICA solución!?
 
@@ -70,7 +70,7 @@ Emacs](http://www.computerworld.com.au/article/207799/don_t_use_emacs_says_java_
 Claro, si se escribe Java y no se usa un IDE sino un buen editor de texto, uno
 se somete a momentos difíciles, pero esto debido a una buena razón.
 
-La programación en Java se torna difícil con Vim o Emacs por que Java apesta
+La programación en Java se torna difícil con Vim o Emacs porque Java apesta
 mucho, y este síntoma habla más sobre el lenguaje que sobre los editores.
 
 El lenguaje necesita y es *dependiente* de un enorme, sobrecargado y algunas
@@ -92,7 +92,7 @@ no quiere morir en el intento de mantenerlo en Netbeans por ejemplo. Si es
 posible, pero se obtienen dolores de cabeza.
 
 Encontró un ejemplo útil en Internet sobre algo que necesita? Genial! Roguemos
-por que use exactamente el mismo IDE...
+que use exactamente el mismo IDE...
 
 Ha intentado compilar un proyecto generado en un IDE sin el IDE? Si no se siente
 extremadamente aventurero o no esta dispuesto a hacerlo sin varios horribles
@@ -112,7 +112,7 @@ forma que pueda presionar el condenado botón!
 
 Intentando escribir una interfaz SOAP para una aplicación JSF? No hay problema,
 solo haga Click aquí y allá!. Pero si no use el IDE entonces está bastante
-jodido por que documentación sobre como **escribir** la funcionalidad es
+jodido porque documentación sobre como **escribir** la funcionalidad es
 estúpida o no existe.
 
 La documentación se vuelve opcional si el IDE tiene un botón para hacerlo.
