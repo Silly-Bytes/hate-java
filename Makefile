@@ -9,9 +9,12 @@
 
 FILE=entry
 
-all: $(FILE).html
+all: $(FILE).html $(FILE)_es.html
 
 $(FILE).html: $(FILE).md
+	pandoc $< -o $@
+
+$(FILE)_es.html: $(FILE)_es.md
 	pandoc $< -o $@
 
 clean:
