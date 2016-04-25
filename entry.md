@@ -13,7 +13,7 @@ dressed like objects: Mutator, Traverser, Factory, Maker, Creator, Generator,
 Mediator, Eliminator. So you don't *mutate*, *traverse* or *create* anything,
 instead you **force** an **object** that can do that.
 
-Ok some of that stuff can be useful for *well used* design patterns and a good
+Ok, some of that stuff can be useful for *well used* design patterns and a good
 design, but most of the time is not!
 
 Don't force objects everywhere. Classes are good when they fit though, and a
@@ -71,8 +71,8 @@ Java programming gets hard with Vim or Emacs because Java sucks very hard, and
 this symptom tells more about the language than it says about de editors.
 
 The language needs and is *dependent* on a huge, bloated and sometimes slow
-tailored program to use it. The IDE becomes a really big support to hold
-everything where the language fails.
+tailored program to use the language. The IDE becomes a really big support to
+hold everything where the language fails.
 
 So the language is not aimed for humans, it requires an extra layer, an
 interface (the IDE) for the user to actually use.
@@ -86,9 +86,9 @@ IDE dependent projects
 
 If you project use, lets say, Eclipse, the other person will have to use it as
 well if she doesn't want to die trying to maintain it in Netbeans for example.
-Yes it is possible, but you get headaches to.
+Yes it is possible, but you get headaches too.
 
-Found a nice example in the internet about something you need? Great! Lets hope
+Found a nice example in the Internet about something you need? Great! Lets hope
 it uses the exact same IDE you use though...
 
 Have you tried to compile an IDE generated project without the IDE? If your not
@@ -107,9 +107,10 @@ Real documentation is almost inexistent if the IDE has an *automagical* GUI
 button for doing that, so if you have to do it, you must use the IDE so you can
 press the goddammit button!
 
-Trying to write a SOAP interface for a JSF application? No problem just click
+Trying to write a SOAP interface for a JSF application? No problem, just click
 here and there!. But if you don't use the IDE you're pretty screwed because good
-documentation about how to actually **write** it, it's stupid or non existent.
+documentation about how to actually **write** the feature, it's stupid or non
+existent.
 
 Documentation becomes optional if the IDE has button for doing it.
 
