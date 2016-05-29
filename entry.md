@@ -1,9 +1,7 @@
-Why do I hate Java
-==================
+# Why do I hate Java
 
 
-Everything is an object...
---------------------------
+## Everything is an object...
 
 ... No, it's not!
 
@@ -27,8 +25,7 @@ Java stupidity causes lots of [astonishment and improper behaviors that you are
 forced to get used to.]( http://www.j-paine.org/objects/objects/objects.html)
 
 
-S.O.S
------
+## S.O.S
 
 Ok, you hit a problem, *javac* is throwing a completely incomprehensible error
 and of course you go to Google hoping you get some answers, and you do:
@@ -58,8 +55,7 @@ that the ONLY way to fix it!?
 You guys are aware that code is plain text right?... RIGHT??
 
 
-Use and IDE!
-------------
+## Use and IDE!
 
 James Gosling (aka Java's father) says: [Don't use
 Emacs](http://www.computerworld.com.au/article/207799/don_t_use_emacs_says_java_father/).
@@ -81,8 +77,7 @@ More on that in this post: [Why I hate
 IDEs](http://silly-bytes.blogspot.com/2016/03/why-do-i-hate-ides.html)
 
 
-IDE dependent projects
-----------------------
+## IDE dependent projects
 
 If you project use, lets say, Eclipse, the other person will have to use it as
 well if she doesn't want to die trying to maintain it in Netbeans for example.
@@ -100,8 +95,7 @@ the IDE specific **version**?? Yeah... You might go now and shoot yourself in
 the head as well.
 
 
-Why documentation when you have a mouse?
-----------------------------------------
+## Why documentation when you have a mouse?
 
 Real documentation is almost inexistent if the IDE has an *automagical* GUI
 button for doing that, so if you have to do it, you must use the IDE so you can
@@ -122,8 +116,7 @@ Note that I'm using SOAP as example just for the sake of the argument, there are
 plenty of other examples, each of those with more or less documentation.
 
 
-Conclusion
-----------
+## Conclusion
 
 - There are lots of stupid programmers, and Java is on of the things to
 [blame](http://www.joelonsoftware.com/articles/ThePerilsofJavaSchools.html).
